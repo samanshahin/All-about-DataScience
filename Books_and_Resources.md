@@ -1,4 +1,4 @@
-These resources are recommended:
+### These resources are recommended:
 
 https://github.com/AllenDowney/ThinkStats2
 
@@ -15,3 +15,7 @@ deep learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville (2017, MIT):
 https://github.com/janishar/mit-deep-learning-book-pdf
 
 and all books at the curriculum of the Master degree of Applied Mathematics, data science subfield like data mining, graph theory, graph mining, optimization, time series, matrix computations, probability, ...
+
+some of them can be found in github pages from other users, just search it...
+
+Have fun!
